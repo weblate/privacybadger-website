@@ -1,50 +1,74 @@
-moreInfo:
-  other: ''
-browserNotSupported:
-  other: ''
-backToQuestions:
-  other: ''
-FrequentlyAskedQuestions:
-  other: ''
-releaseNotes:
-  other: ''
-browserNameOpera:
-  other: ''
-notSupportedInThisBrowser:
-  other: ''
-installForBrowser:
-  other: ''
-donate:
-  other: ''
-browserNameFirefox:
-  other: ''
-browserNameMicrosoftEdge:
-  other: ''
-otherBrowsers:
-  other: ''
 privacyBadgerLearns:
   other: ''
-browserNameFirefoxonAndroid:
+
+installForBrowser:
   other: ''
-browserNameEdgeonAndroid:
+
+browserNotSupported:
   other: ''
+
+notSupportedInThisBrowser:
+  other: ''
+
+moreInfo:
+  other: ''
+
+browserNameBrave:
+  other: ''
+
 browserNameChrome:
   other: ''
-language:
+
+browserNameFirefox:
   other: ''
+
+browserNameFirefoxonAndroid:
+  other: ''
+
+browserNameMicrosoftEdge:
+  other: ''
+
+browserNameEdgeonAndroid:
+  other: ''
+
+browserNameOpera:
+  other: ''
+
+releaseNotes:
+  other: ''
+
+otherBrowsers:
+  other: ''
+
 altInstall:
   other: ''
-technicalDetails:
+
+language:
   other: ''
+
+donate:
+  other: ''
+
+FrequentlyAskedQuestions:
+  other: ''
+
+backToQuestions:
+  other: ''
+
 gettingStarted:
   other: ''
-compatibility:
-  other: ''
-supportingPrivacyBadger:
-  other: ''
+
 keyFeatures:
   other: ''
+
+technicalDetails:
+  other: ''
+
 troubleshooting:
   other: ''
-browserNameBrave:
+
+compatibility:
+  other: ''
+
+supportingPrivacyBadger:
   other: ''

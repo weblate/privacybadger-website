@@ -28,6 +28,9 @@ browserNameFirefoxonAndroid:
 browserNameMicrosoftEdge:
   other: "Edge"
 
+browserNameEdgeonAndroid:
+  other: ''
+
 browserNameOpera:
   other: "Opera"
 
@@ -51,17 +54,21 @@ FrequentlyAskedQuestions:
 
 backToQuestions:
   other: "返回到问题 ▲"
-browserNameEdgeonAndroid:
-  other: ''
-technicalDetails:
-  other: ''
+
 gettingStarted:
   other: ''
-compatibility:
-  other: ''
-supportingPrivacyBadger:
-  other: ''
+
 keyFeatures:
   other: ''
+
+technicalDetails:
+  other: ''
+
 troubleshooting:
+  other: ''
+
+compatibility:
+  other: ''
+
+supportingPrivacyBadger:
   other: ''

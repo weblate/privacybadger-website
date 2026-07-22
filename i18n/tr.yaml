@@ -54,15 +54,21 @@ FrequentlyAskedQuestions:
 
 backToQuestions:
   other: Sorulara geri dön ▲
-technicalDetails:
-  other: ''
+
 gettingStarted:
   other: ''
-compatibility:
-  other: ''
-supportingPrivacyBadger:
-  other: ''
+
 keyFeatures:
   other: ''
+
+technicalDetails:
+  other: ''
+
 troubleshooting:
+  other: ''
+
+compatibility:
+  other: ''
+
+supportingPrivacyBadger:
   other: ''
