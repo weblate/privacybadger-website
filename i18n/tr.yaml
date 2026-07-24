@@ -1,5 +1,5 @@
 privacyBadgerLearns:
-  other: Privacy Badger, görünmez izleyicileri engellemeyi otomatik olarak öğrenen bir tarayıcı uzantısıdır.
+  other: Privacy Badger, önde gelen dijital haklar alanında faaliyet gösteren kar amacı gütmeyen kuruluş <a href='https://www.eff.org/'>EFF</a> tarafından, şirketlerin sizi çevrim içi ortamda izlemesini engellemek amacıyla geliştirilen ücretsiz bir tarayıcı eklentisidir.
 
 installForBrowser:
   other: "{{.Browser}}'a Ekle"
@@ -56,19 +56,19 @@ backToQuestions:
   other: Sorulara geri dön ▲
 
 gettingStarted:
-  other: ''
+  other: 'Başlangıç'
 
 keyFeatures:
-  other: ''
+  other: 'Temel Özellikler'
 
 technicalDetails:
-  other: ''
+  other: 'Teknik Ayrıntılar'
 
 troubleshooting:
-  other: ''
+  other: 'Sorun Giderme'
 
 compatibility:
-  other: ''
+  other: 'Uyumluluk'
 
 supportingPrivacyBadger:
-  other: ''
+  other: 'Privacy Badger''i Destekleyin'
