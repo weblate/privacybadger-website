@@ -1,6 +1,6 @@
 ---
 category: compatibility
-question: 'Kommer ni att stödja några andra webbläsare än Chrome, Firefox, Edge och Opera?'
+question: 'Kommer ni att stödja några andra webbläsare?'
 weight: 150
 ---
 
