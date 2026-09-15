@@ -1,5 +1,5 @@
 ---
-question: Will you be supporting any other browsers besides Chrome, Firefox, Edge and Opera?
+question: Will you be supporting any other browsers?
 weight: 150
 category: compatibility
 ---
